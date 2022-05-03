@@ -27,7 +27,7 @@ function App() {
           key={items.title}
           title={items.title}
           description={items.description}
-          link={items.url}
+          link={items.link}
           image={items.image_url}
           content={items.content}
         />
